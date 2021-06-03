@@ -2,4 +2,4 @@ torch==1.8.1
 streamlit==0.8.2
 unidecode==1.2.0
 numpy==1.14.3
-idna-ssl==1.1.0
+idna_ssl==1.0.1
