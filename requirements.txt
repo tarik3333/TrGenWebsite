@@ -1,4 +1,4 @@
 torch==1.8.1
 streamlit==0.8.0
 unidecode==1.2.0
-numpy==1.14.3
+
